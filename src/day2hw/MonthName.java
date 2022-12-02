@@ -1,4 +1,5 @@
-package day2hw;
+package com.Basicjava;
+
 import javax.swing.*;
 
 public class MonthName {
