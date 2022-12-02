@@ -1,4 +1,4 @@
-package day2hw;
+package  com.Basicjava;
 
 public class SumofNaturalNumber {
     
