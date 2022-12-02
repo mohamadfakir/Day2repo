@@ -1,6 +1,7 @@
 package day2hw;
 
 public class SumofNaturalNumber {
+    
     public static void main(String[] args)
     {
         int i, num = 5, sum = 0;
