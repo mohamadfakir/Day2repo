@@ -1,4 +1,5 @@
-package day2hw;
+package com.basicjava;
+
 import java.util.Scanner;
 
 public class MinMax {
