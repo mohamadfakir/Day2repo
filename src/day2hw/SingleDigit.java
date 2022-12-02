@@ -3,6 +3,7 @@ package day2hw;
 import java.util.Scanner;
 
 public class SingleDigit {
+    
     public static void main(String[] args) {
         System.out.println("Enter the number");
         Scanner number = new Scanner(System.in);
