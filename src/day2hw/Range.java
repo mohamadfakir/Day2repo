@@ -3,6 +3,7 @@ package day2hw;
 import java.util.Scanner;
 
 public class Range {
+    
     public static void main(String[] args) {
         System.out.println("Enter the number like 1,10,100,1000,....");
         Scanner number = new Scanner(System.in);
