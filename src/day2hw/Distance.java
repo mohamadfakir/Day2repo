@@ -1,4 +1,4 @@
-package day2hw;
+package com.basicjava;
 
 public class Distance {
     
