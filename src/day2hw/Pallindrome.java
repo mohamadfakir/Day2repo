@@ -2,7 +2,8 @@ package day2hw;
 
 import java.util.Scanner;
 
-public class Pallindrome {
+public class PallindromeNumber {
+    
     public static void main(String[] args) {
         String original;  // Objects of String class
         StringBuilder reverse = new StringBuilder();
