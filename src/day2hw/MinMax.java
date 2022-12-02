@@ -2,6 +2,7 @@ package day2hw;
 import java.util.Scanner;
 
 public class MinMax {
+    
     public static void main(String[] args) {
         System.out.println("Enter the values  of a,b,c");
         Scanner obj = new Scanner(System.in);
